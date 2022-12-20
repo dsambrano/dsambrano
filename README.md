@@ -33,8 +33,9 @@ I need to add LaTeX, Flask, MySQL, Lua and probs some things like pytorch etc.
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsambrano&layout=compact&theme=midnight-purple&hide=cmake,css,html,c%2B%2B)](https://blog.dsambrano.com) -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsambrano&layout=compact&theme=midnight-purple)](https://blog.dsambrano.com)
 
+<!-- Find more icons: https://simpleicons.org/?q=fedora -->
 <a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
-<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-74c7ec?style=flat&logo=arch-linux" /></a>
+<a href="https://getfedora.org/"><img src="https://img.shields.io/badge/DISTRO-fedora-51A2DA?style=flat&logo=fedora" /></a>
 <a href="https://awesomewm.org"><img src="https://img.shields.io/badge/WM-awesome-blue?style=flat&logo=linux" /></a>
 <a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=dsambrano&color=blue)
