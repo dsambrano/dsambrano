@@ -1,6 +1,6 @@
 # Hi, I am Deshawn
 
-## 📑 About me
+## 🎓 About me
 
 - Doctoral Candidate at Harvard University
 - Create Computational Models for how humans make decisions particularly when emotion is involved
