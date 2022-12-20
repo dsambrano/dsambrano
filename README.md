@@ -8,7 +8,7 @@
 ## ⚙️ Skills
 
 <code><img height="30" src="assets/python.png" title="Python"></code>
-<code><img height="30" src="assets/r.webp" title="R"></code>
+<code><img height="30" src="assets/rstudio-circle.png" title="R"></code>
 <code><img height="30" src="assets/javascript.png" title="JavaScript"></code>
 <code><img height="30" src="assets/c.png" title="C"></code>
 <code><img height="30" src="assets/mongo.png" title="MongoDB"></code>
