@@ -2,8 +2,9 @@
 
 ## 🎓 About me
 
-- Doctoral Candidate at Harvard University
+- PhD Harvard University
 - Create Computational Models for how humans make decisions particularly when emotion is involved
+- 10+ years experience in programming and data science
 
 ## ⚙️ Skills
 
