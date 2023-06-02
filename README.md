@@ -2,8 +2,8 @@
 
 ## 🎓 About me
 
-- PhD Harvard University
-- Create Computational Models for how humans make decisions particularly when emotion is involved
+- PhD from Harvard University
+- Create Computational Models for predicting human decision making
 - 10+ years experience in programming and data science
 
 ## ⚙️ Skills
