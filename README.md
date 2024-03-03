@@ -43,7 +43,7 @@ I need to add LaTeX, Flask, MySQL, Lua and probs some things like pytorch etc.
 
 ## 🍉 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deshawn-sambrano-82216175)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsambrano/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dsambrano)
 <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/527842204396552202) -->
 <!-- [![Youtube](https://img.shields.io/badge/YouTube-b22222?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dbrano3) -->
